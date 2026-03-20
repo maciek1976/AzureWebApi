@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\AzureAps\\AzureWebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77D7D2D8-79DA-4965-B1A1-EFDE263F2F12}|AzureWebApi\\AzureWebApi.csproj|d:\\azureaps\\azurewebapi\\azurewebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77D7D2D8-79DA-4965-B1A1-EFDE263F2F12}|AzureWebApi\\AzureWebApi.csproj|solutionrelative:azurewebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10A74A49-AE15-5ECD-8D31-99322F989C06}|AzureWebApi\\AzureWebApi.csproj|d:\\azureaps\\azurewebapi\\azurewebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A74A49-AE15-5ECD-8D31-99322F989C06}|AzureWebApi\\AzureWebApi.csproj|solutionrelative:azurewebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +28,7 @@
               "RelativeDocumentMoniker": "AzureWebApi\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "D:\\AzureAps\\AzureWebApi\\AzureWebApi\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "AzureWebApi\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T17:52:31.377Z",
               "EditorCaption": ""
